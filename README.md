@@ -10,4 +10,4 @@ Setting the programming guidelines
 Programming the base code structure
 Developing new features
 
-![Entities UML](https://drive.google.com/open?id=1ir51RW5Z7mshjcicvaA1zRyNDBi82yvw)
+![UML](https://github.com/marc094/Personal-Page/blob/master/Mystara_General_UML.png)
